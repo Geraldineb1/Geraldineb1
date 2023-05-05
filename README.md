@@ -1,7 +1,7 @@
-- 👋 Hi, I’m Geraldine Buxant. I'm a Business Analyst.
-- 👀 I'm following evening classes in Computer Science.
-- 👀 I'm also a musician.
+- 👋 Hi, I’m Geraldine Buxant. I'm a Business/Functional Analyst.
+- 👀 I'm currently in the last Year of night classes in Computer Science.
 - 🌱 I’m currently learning ASP.NET MVC, Auth0, Entity Framework, Figma. 
+- 👀 I'm also a musician and a singer.
 
 <!---
  I’m interested in 
